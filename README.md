@@ -1,8 +1,10 @@
 # ProwayComputadores
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
-
 > Visit: https://damtrovao.github.io/proway-computadores/
+
+Projeto de site de E-Commerce realizado durante curso de Angular, na plataforma da Capgemini Start.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 ## Development server
 
